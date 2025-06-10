@@ -16,15 +16,13 @@ corresponding to the option you want to choose. If given a special question that
 their are 20 endings. So 20 mins of total game time. If you can get all endingsm you get a secret message!
 
 Credits
-The King's Dilemma was created by Benjamin Pevie, with inspiration from classic text-based adventure games. All writing, programming, and 
+The King's Dilemma was created by @sindcial (Ben), with inspiration from classic text-based adventure games. All writing, programming, and 
 artwork were found on Google Images.
 
 License
-The King's Dilemma is licensed under the ICS2O Gr10 Com Sci Class. Feel free to use, modify, and distribute the game as you see fit, as 
-long as you provide credit to the original creator, Benjamin Pevie.
+The King's Dilemma is licensed under the ICS2O Gr10 Com Sci Class. Feel free to use, modify, and distribute the game as you see fit, as long as you provide credit to the original creator, @sindical on discord.
 
 Acknowledgments
-I would like to thank Mike Ma for their support and feedback throughout the development process. Without their help, this game would not 
-have been possible. 
+I would like to thank Mike Ma for his support and feedback throughout the development process. Without his help, this game would not have been possible. 
 
 ####################  This was a Grade 10 Computer Science Assignment. Its my first game, so be nice and have fun!  #####################
